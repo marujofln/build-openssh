@@ -22,6 +22,8 @@ sudo apt-get install autoconf automake build-essential curl
 ## Usage
 
 ```bash
+git clone https://github.com/marujofln/build-openssh.git
+cd build-openssh
 ./openssh-build-static.sh
 ```
 
